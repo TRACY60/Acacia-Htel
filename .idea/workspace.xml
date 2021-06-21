@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a15e4f-941a-4421-8bf4-ed3a846ee11c" name="Default Changelist" comment="" />
+    <list default="true" id="29a15e4f-941a-4421-8bf4-ed3a846ee11c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +14,14 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="acacia hotel" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tydHMQK6rpi2RkvRFchJ00GsDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,7 +59,7 @@
       <workItem from="1623995173561" duration="1792000" />
       <workItem from="1623999895829" duration="1044000" />
       <workItem from="1624001809560" duration="3652000" />
-      <workItem from="1624008010490" duration="1055000" />
+      <workItem from="1624008010490" duration="1977000" />
     </task>
     <servers />
   </component>
