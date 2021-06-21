@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29a15e4f-941a-4421-8bf4-ed3a846ee11c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1tydHMQK6rpi2RkvRFchJ00GsDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../five-hotel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a15e4f-941a-4421-8bf4-ed3a846ee11c" name="Default Changelist" comment="" />
+      <created>1623745173601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623745173601</updated>
+      <workItem from="1623745175277" duration="5242000" />
+      <workItem from="1623756435420" duration="111000" />
+      <workItem from="1623757961970" duration="72000" />
+      <workItem from="1623758573690" duration="415000" />
+      <workItem from="1623822146115" duration="1849000" />
+      <workItem from="1623841764953" duration="38000" />
+      <workItem from="1623995173561" duration="1792000" />
+      <workItem from="1623999895829" duration="1044000" />
+      <workItem from="1624001809560" duration="3652000" />
+      <workItem from="1624008010490" duration="1055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="169" width="494" height="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623747575537">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="260" y="169" width="494" height="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.728@0.0.1024.728" timestamp="1623747575537" />
+    <state x="290" y="41" width="433" height="639" key="#index.html" timestamp="1623750372259">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="290" y="41" width="433" height="639" key="#index.html/0.0.1024.728@0.0.1024.728" timestamp="1623750372259" />
+    <state x="289" y="105" width="424" height="505" key="FileChooserDialogImpl" timestamp="1624008211248">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="289" y="105" width="424" height="505" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1624008211248" />
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1623841794101">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1623841794101" />
+    <state x="176" y="160" key="run.anything.popup" timestamp="1624256358559">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="176" y="160" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1624256358559" />
+  </component>
+</project>
